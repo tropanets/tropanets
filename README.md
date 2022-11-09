@@ -12,11 +12,16 @@
 - Python
 
 
-### Database
+### IT
 
-- SQLite
-- PostgreSQL
-- SQL Server
+- Web sites
+- Bots
+- OS
+- SQL
+- Network
+- Cryptography
+- EDS
+- and many others
 
 ## Competition platforms
 
