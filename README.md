@@ -28,7 +28,6 @@
 | Platform      | Profile       | Badge|
 | ------------- |:-------------:|:-------------:|
 | Codewars      |[tropanets](https://www.codewars.com/users/tropanets)|![tropanets](https://www.codewars.com/users/tropanets/badges/micro)|
-| Kaggle        |[tropanets](https://www.kaggle.com/tropanets)|![tropanets](https://road-to-kaggle-grandmaster.vercel.app/api/simple/tropanets)|
 
 ## 📈 Stats
 
