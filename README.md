@@ -19,6 +19,7 @@
 - Telegram Bots
 
 ### My Data Science projects
+- [Here](https://github.com/tropanets/DS-Projects)
 
 ## Competition platforms
 
