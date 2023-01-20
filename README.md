@@ -18,6 +18,8 @@
 - Web sites
 - Telegram Bots
 
+### My Data Science projects
+
 ## Competition platforms
 
 | Platform      | Profile       | Badge|
