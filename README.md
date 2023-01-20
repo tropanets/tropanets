@@ -10,18 +10,13 @@
 
 - PHP
 - Python
+- SQL
 
 
 ### IT
 
 - Web sites
-- Bots
-- OS
-- SQL
-- Network
-- Cryptography
-- EDS
-- and many others
+- Telegram Bots
 
 ## Competition platforms
 
