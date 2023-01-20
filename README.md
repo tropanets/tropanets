@@ -12,14 +12,14 @@
 - Python
 - SQL
 
+### Data Science projects
+- [Here](https://github.com/tropanets/ds-projects)
 
-### IT
 
-- Web sites
-- Telegram Bots
+### also... I can create
 
-### My Data Science projects
-- [Here](https://github.com/tropanets/DS-Projects)
+- [Web sites](https://t2v.me)
+- [Telegram Bots](https://github.com/tropanets/telegram-bots)
 
 ## Competition platforms
 
