@@ -18,8 +18,11 @@
 
 ### also... I can create
 
-- [Web sites](https://t2v.me)
+- Web sites
 - [Telegram Bots](https://github.com/tropanets/telegram-bots)
+
+## My portfolio
+- [T2V.ME](https://t2v.me)
 
 ## Competition platforms
 
