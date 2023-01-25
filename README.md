@@ -10,7 +10,6 @@
 
 - PHP
 - Python
-- SQL
 
 ### Data Science projects
 - [Here](https://github.com/tropanets/ds-projects)
