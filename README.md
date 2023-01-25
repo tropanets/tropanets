@@ -11,17 +11,15 @@
 - PHP
 - Python
 
-### Data Science projects
-- [Here](https://github.com/tropanets/ds-projects)
+### Data Science
+- [Projects](https://github.com/tropanets/ds-projects)
 
 
 ### also... I can create
 
-- Web sites
+- [Web sites](http://t2v.me)
 - [Telegram Bots](https://github.com/tropanets/telegram-bots)
 
-## My portfolio
-- [T2V.ME](https://t2v.me)
 
 ## Competition platforms
 
